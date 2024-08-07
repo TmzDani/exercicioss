@@ -1,0 +1,12 @@
+h1 {
+text-align: center;
+
+}
+img{
+    margin: auto;
+    display: block;
+    border: 8px solid rgb(0, 0, 0);
+    max-width: 300px
+    
+}
+
