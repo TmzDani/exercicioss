@@ -1,0 +1,14 @@
+a{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+color: blueviolet;
+text-align: center;
+margin: auto;
+display: block;
+
+}
+
+a:hover{
+    font-weight: bold;
+
+}
