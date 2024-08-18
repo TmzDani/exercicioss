@@ -1,0 +1,7 @@
+#gradiation-conteiner{
+    width: 100px;
+    height:100px;
+    background:linear-gradient((45 deg,blue, green))
+    animation: Animation 5s ease infinite;
+    
+}
