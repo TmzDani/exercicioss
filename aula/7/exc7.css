@@ -1,0 +1,11 @@
+th{
+    background-color: gray;
+    
+}
+tr{
+    line-height: 20px;
+    width: 50px;
+}
+th, td{
+    border:1px solid
+}
