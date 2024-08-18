@@ -1,0 +1,25 @@
+
+#conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin-inline: 20px;
+    display: flex;
+}
+#conteiner{
+    background-color: blueviolet;
+    color: black;
+}
+div1{
+    background-color: blue;
+  
+}
+div2{
+    background-color: brown;
+ 
+}
+
+div3{
+    background-color: bisque;
+    
+}
