@@ -1,0 +1,17 @@
+#vessel{
+    width: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 4px 6px;
+    text-align: center;
+    text-align: center;
+    margin: auto;
+    display: block;
+ }
+ #vessel img{
+     width: 100%;
+     border-radius: 10px;
+     height: auto;
+     text-align: center;
+
+ }
